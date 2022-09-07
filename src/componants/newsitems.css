@@ -1,0 +1,33 @@
+.grid {
+    margin: 0;
+}
+
+/* .card{
+    width: 345px;
+} */
+.MuiCardActionArea-root.css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root {
+    position: static;
+}
+
+
+button:disabled {
+    color: white !important;
+    opacity: 0.6;
+}
+
+.css-1qvr50w-MuiTypography-root {
+    font-size: 0.8rem !important;
+    font-weight: 800;
+    width: fit-content;
+    padding: 2% 3%;
+    border-radius: 5px;
+    background: gray;
+    color: white;
+    letter-spacing: 1.1px !important;
+    padding: 0.5rem 0.8rem;
+    margin-bottom: 5px !important;
+}
+
+.css-nrdprl-MuiTypography-root{
+    font-size: 0.8rem !important;
+}
